@@ -1,0 +1,238 @@
+@media(max-width:575px){  					 /* XS part*/
+
+.header-menu{
+	float: left;
+	padding:0px 30px;
+}
+.logo img{
+	margin-left: -10px;
+}
+.navbar-toggler{
+	margin-left: 100px;
+}
+.shoes-heading h2{
+	font-size: 32px;
+	width: 50px;
+	top: 50%;
+	left: 20%;
+	transform: translate(-50%,-20%);
+}
+.shoes-img img {
+	width: 160px;
+	top: 55%;
+	left:79%;
+	transform: translate(-50%,-55%);
+
+}
+.slide, .card{
+	margin-bottom: 20px;
+}
+.bar{
+	width: 40px;
+    height: 2px;
+   
+}
+.bar1{
+	width: 40px;
+    height: 1px;
+   
+}
+.paragraph h3{	
+	font-size: 20px;
+}
+.bar2{
+	width: 40px;
+    
+}
+.bar3{
+	width: 40px;
+   
+}
+.btn-custom{
+	margin: 10px auto;
+}
+.border-top-left-overlay{
+    
+    bottom: 259px;
+   
+   
+}
+.overlay-portion h3 {
+	font-size: 12px;
+	bottom:45px;
+}
+}
+
+@media (min-width:576px) and (max-width: 767px)  /* SM part  */
+{
+
+.logo img{
+	margin-left: -50px;
+}
+.nav-link{
+	font-size: 12px;
+}
+.navbar-toggler{
+	margin-left: 100px;
+}
+.shoes-heading h2{
+	font-size: 32px;
+	width: 50px;
+	top: 50%;
+	left: 20%;
+	transform: translate(-50%,-20%);
+}
+.shoes-img img {
+	width: 230px;
+	top: 55%;
+	left:79%;
+	transform: translate(-50%,-55%);
+
+}
+.slide{
+	height: 200px;
+	}
+.slide h3{
+	font-size: 22px;
+	
+}
+.card h3 {
+	font-size: 14px;
+}
+.bar{
+	width: 120px;
+    height: 2px;
+   
+}
+.bar1{
+	width: 120px;
+    height: 1px;
+   
+}
+.paragraph h3{	
+	font-size: 20px;
+}
+.bar2{
+	width: 100px;
+    
+}
+.bar3{
+	width: 100px;
+   
+}
+.border-top-left-overlay{
+    border-top:60px solid #db8686;
+    bottom: 355px;
+   
+   
+}
+.overlay-portion h3 {
+	font-size: 10px;
+	bottom:20px;
+	-webkit-transform:rotate(-40deg);
+}
+
+}
+@media (min-width:768px) and (max-width: 991px)  /* SM part  */
+{
+
+.navbar-nav {
+	margin-left: 100px; 	
+}
+.nav-link{
+	font-size: 12px;
+}
+.shoes-img img {
+	width: 300px;
+	top: 55%;
+	left:79%;
+	transform: translate(-50%,-55%);
+
+}
+.slide{
+	height: 200px;
+}
+.bar{
+	width: 210px;
+    height: 2px;
+   
+}
+.bar1{
+	width: 210px;
+    height: 1px;
+   
+}
+.paragraph h3{	
+	font-size: 20px;
+}
+.bar2{
+	width: 205px;
+    
+}
+.bar3{
+	width: 205px;
+   
+}
+.border-top-left-overlay{
+    border-top:70px solid #db8686;
+    bottom: 293px;
+   
+   
+}
+.overlay-portion h3 {
+	font-size: 12px;
+	bottom:30px;
+	-webkit-transform:rotate(-40deg);
+}
+
+
+}
+@media  (min-width:992px) and (max-width: 1199px) /* part  */
+{
+.nav-link{
+	font-size: 14px;
+}
+
+.shoes-img img {
+	width: 400px;
+	top: 55%;
+	left:79%;
+	transform: translate(-50%,-55%);
+
+}
+.slide{
+	height: 200px;
+}
+.bar{
+	width: 330px;
+    height: 2px;
+   
+}
+.bar1{
+	width: 330px;
+    height: 1px;
+   
+}
+.paragraph h3{	
+	font-size: 20px;
+}
+.bar2{
+	width: 320px;
+    
+}
+.bar3{
+	width: 320px;
+   
+}
+.border-top-left-overlay{
+    height: 2px !important;
+    bottom: 240px;
+   
+   
+}
+.overlay-portion h3 {
+	font-size: 14px;
+	bottom:50px;
+}
+
+	}

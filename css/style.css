@@ -1,0 +1,306 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.header-section{
+	 margin-top: 14px;
+	 
+}
+.social-icon{
+ margin: 0;
+ padding: 0;
+ list-style: none;
+}
+.social-icon li{
+	display: inline-block;
+	padding:0px 20px 0px 0px;
+	margin: 0px;
+}
+.social-icon li i{
+	color: #000;
+}
+.social-icon span{
+	padding: 0px;
+}
+.header-menu{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.header-menu li{
+    display: inline-block;
+    padding: 5px;
+
+}
+.header-menu li a{
+	color: #262626;
+	font-size: 14px;
+	font-weight: 18px;
+	 
+}
+.header-menu li a:hover{
+	color: #B54745;
+	
+	margin-bottom:2px solid #000; 
+}
+.menu-section{
+	background: #F5F6F1;
+}
+.navbar-brand{
+	color: #463F3A !important;
+	font-size: 32px;
+	font-weight: bold;
+	margin: 0px;
+
+}
+.navbar-brand p{
+	font-size: 10px;
+	margin-top:-10px; 
+	color: #B1B0AC;
+}
+.navbar-toggler{
+	background-color: #000;
+}
+.navbar-nav {
+	margin-left: 150px; 	
+}
+.nav-item{
+	padding: 0px ;
+
+}
+.nav-item span{
+	padding: 0px 5px;
+}
+.nav-link { 
+	color: #463F3A !important;
+}
+.nav-side p{
+	font-size: 14px;
+	color: #463F3A ;
+}
+.nav-side img{
+	margin-top:-20px; 
+	padding: 0px 10px;
+}
+.buffer-wrapper{
+	background: url("../images/la3..png");
+	background-size: 100% 100%;
+	height: 700px;
+	position: relative;
+}
+.shoes-heading h2{
+	width: 200px;	
+	top: 50%;
+	left: 20%;
+	transform: translate(-50%,-20%);
+	color: #fff;
+	position: absolute;
+	font-size: 52px;
+	font-weight: bold;
+	
+}
+.shoes-img img {
+	position: absolute;
+	top: 60%;
+	left:78%;
+	transform: translate(-50%,-50%);
+
+}
+.slide{
+ background: #ededed;
+ padding: 20px 10px;
+}
+.slide h3{
+	font-size: 25px;
+	font-weight: bold;
+}
+span{
+	color: #B44745;
+}
+.line1 {
+	height: 80px;
+	background: #F8F8F8;
+}
+.shape{
+	    float: left;   
+}
+.bar{
+	width: 393px;
+    height: 2px;
+    background: #5E5853;
+}
+.bar1{
+	width: 393px;
+    height: 1px;
+    background: #5E5853;
+    margin-top: 2px;
+}
+
+.paragraph h3{
+	float: left;
+	padding: 0px 20px;
+	margin-top:-15px; 
+	font-size: 25px;
+	font-weight: bold;
+
+}
+
+.portfolio-part1{
+	
+	background: #F8F8F8;
+}
+.portfolio-part2{
+	
+	background: #FFFFFF;
+}
+.portfolio-part3{
+	
+	background: #F8F8F8;
+	
+}
+.portfolio-part4{
+	
+	background: #F8F8F8;
+	
+}
+.dolor{
+	padding: 0px 10px;
+}
+.card{
+	border: none;
+	margin-bottom: 40px;
+}
+.card h3{
+	font-size: 22px;
+	color: #57514D;
+	padding: 10px;
+	font-weight: bold;
+	margin: 0;
+}
+.card p{
+	font-size: 14px;
+	color: #57514D;
+	padding: 5px 10px;
+	margin: 0;
+
+}
+.card a{
+	font-size: 18px;
+	color:#F56563 ;
+	padding: 10px;
+	text-decoration:none; 
+}
+.line2{
+	background:#FFFFFF !important; 
+}
+.card-price h5{
+	padding: 20px 5px;
+	font-size: 16px;
+	margin: 0px;
+	color: #2B2C2D;
+}
+.card-price p{
+	padding: 6px 5px;
+}
+.card-price a{
+	padding: 0px 5px;
+	font-size:14px;
+	font-weight: bold; 
+}
+.btn-custom{
+	
+	margin: 20px 0px;
+	background: #463F3A;
+	color: #FFFFFF;
+	font-weight:bold; 
+}
+hr{
+	margin: 0px;
+}
+.bar2{
+	width: 388px;
+    height: 2px;
+    background: #5E5853;
+}
+.bar3{
+	width: 388px;
+    height: 1px;
+    background: #5E5853;
+    margin-top: 2px;
+}
+.card-overlay img{
+	position: relative;
+}
+.border-top-left-overlay{
+    position: absolute;
+    width: 0%;
+    height: 10%;
+    bottom: 248px;
+    border-top:100px solid #db8686;
+    border-right: 100px solid transparent;
+   
+}
+.overlay-portion{
+	position: absolute;
+    width: 25%;
+    height: 20%;
+    bottom: 0px;
+    left: 0;
+    background: rgba(245,101,99,.5);
+
+}
+.overlay-portion h3 {
+	position: absolute;
+	color: #fff !important;
+	bottom:40px;
+	left: 0%;
+	font-size: 18px;
+	transform: translate(-50%,-50%);
+	-webkit-transform:rotate(-45deg);
+}
+.quote{
+	background: #F8F8F8;
+	height: 180px;
+}
+.quote-text h4{
+	font-size: 25px;
+	color: #463F3A;
+	font-weight: bold;
+	margin:0px; 
+}
+.quote-text p{
+	color: #787878;
+	font-size: 12px;
+
+}
+
+.footer{
+	background: #463F3A;
+	
+}
+.footer-text{
+	color: #fff;
+	font-size: 34px;
+}
+.footer-text p, .footer-menu p{
+	color: #E0DFDF;
+	font-size: 10px;
+}
+.footer-menu ul{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+.footer-menu li{
+	display: inline-block;
+	padding: 12px 12px 12px 0px;
+	color: #E0DFDF;
+}
+.btn-custom1{
+	width: 60px;
+	height: 50px;
+	background: #777;
+}
+.bottom-text span{
+ 	 color: #F46967;
+}
